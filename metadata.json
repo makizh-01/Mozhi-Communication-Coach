@@ -1,0 +1,7 @@
+{
+  "name": "Mozhi - Communication Coach",
+  "description": "An AI-powered communication enhancement tool designed to help Tamil speakers master English and other languages through context-aware translations, explanations, and voice practice.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
